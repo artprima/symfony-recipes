@@ -1,0 +1,3 @@
+prometheus_metrics:
+    namespace: myapp
+    type: in_memory
